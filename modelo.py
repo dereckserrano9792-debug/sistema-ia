@@ -6,3 +6,6 @@ version = 2
 
 print("Modelo :", modelo )
 print("Version:", version)
+
+estado = "experimental"
+print("Estado:", estado)
