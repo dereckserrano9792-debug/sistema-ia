@@ -21,5 +21,8 @@ Realizar buenas practicas de control de versiones con Git y Github mediant eel d
 -Git
 -Git Bash
 
+## Estado del proyecto
+prototipo inicial 
+
 ##Autor
 Dereck Andre Bernardo Serrano Gomez
